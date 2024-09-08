@@ -8,7 +8,7 @@ double distance(int x1, int x2, int y1, int y2){
 }
 
 
-double calculatedistance()
+double calculateDistance()
 {
     int x1 = 0;
     int x2 = 0;
@@ -26,5 +26,5 @@ double calculatedistance()
 
 int main(int argc, char **argv)
 {
-    calculatedistance();
+    calculateDistance();
 }
